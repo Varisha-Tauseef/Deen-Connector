@@ -1,0 +1,695 @@
+{
+  "loss": [
+    {
+      "arabic": "اللَّهُمَّ اجْبُرْ كَسْرَ قَلْبِي، وَارْزُقْنِي صَبْرًا وَسَلَامًا فِي قَلْبِي",
+      "transliteration": "Allahumma ajbur kasra qalbi, warzuqni sabran wasalaman fi qalbi.",
+      "translation": "O Allah, mend my broken heart and grant me patience and peace in my heart."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:155–157)",
+      "text": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient. Who, when disaster strikes them, say, ‘Inna lillahi wa inna ilayhi raji'un’. Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are rightly guided."
+    },
+    {
+      "reference": "Surah Al-Ra’d (13:28)",
+      "text": "Verily, in the remembrance of Allah do hearts find rest."
+    },
+    {
+      "reference": "Surah Al-Tawbah (9:51)",
+      "text": "Say, ‘Never will we be struck except by what Allah has decreed for us; He is our protector.’ And upon Allah let the believers rely."
+    }
+  ],
+  "failure": [
+    {
+      "arabic": "اللَّهُمَّ لا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+      "transliteration": "Allahumma la sahla illa ma ja'altahu sahlan wa anta taj'alul hazna iza shi'ta sahlan.",
+      "translation": "O Allah, there is no ease except what You make easy, and You make the difficult easy if You wish."
+    },
+    {
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي، وَيَسِّرْ لِي أَمْرِي، وَاحلُلْ عُقْدَةً مِّن لِّسَانِي، يَفْقَهُوا قَوْلِي",
+      "transliteration": "Rabbi ishrah li sadri, wa yassir li amri, wahlul 'uqdatan min lisani yafqahu qawli.",
+      "translation": "My Lord, expand for me my breast and ease for me my task and untie the knot from my tongue so they may understand my speech."
+    },
+    {
+      "reference": "Surah Ash-Sharh (94:5–6)",
+      "text": "For indeed, with hardship will be ease. Indeed, with hardship will be ease."
+    },
+    {
+      "reference": "Surah Al-Ankabut (29:69)",
+      "text": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:286)",
+      "text": "Allah does not burden a soul beyond that it can bear."
+    }
+  ],
+  "loneliness": [
+    {
+      "arabic": "اللَّهُمَّ كُنْ مَعِي وَلا تَتْرُكْنِي وَحْدِي أَبَدًا",
+      "transliteration": "Allahumma kun ma’i wa la tatrukni wahdi abadan.",
+      "translation": "O Allah, be with me and never leave me alone, ever."
+    },
+    {
+      "reference": "Surah Al-Hadid (57:4)",
+      "text": "He is with you wherever you are. And Allah, of what you do, is Seeing."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:186)",
+      "text": "And when My servants ask you concerning Me, indeed I am near. I respond to the call of the supplicant when he calls upon Me."
+    },
+    {
+      "reference": "Surah Al-Furqan (25:74)",
+      "text": "Our Lord, grant us from among our spouses and offspring comfort to our eyes and make us an example for the righteous."
+    },
+    {
+      "reference": "Surah Yunus (10:62-63)",
+      "text": "Unquestionably, the allies of Allah – there will be no fear concerning them, nor will they grieve. Those who believed and were conscious of Allah."
+    },
+    {
+      "reference": "Surah Al-Tawbah (9:40)",
+      "text": "Do not grieve; indeed, Allah is with us."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي مِمَّنْ تَسْتَجِيبُ دُعَاءَهُ وَتُؤْنِسُ وَحْشَتَهُ",
+      "transliteration": "Allahumma aj‘alni mimman tastajeebu du‘a’ahu wa tu’nisu wahshatahu.",
+      "translation": "O Allah, make me among those whose prayers You answer and whose loneliness You ease."
+    }
+  ],
+  "rejection": [
+    {
+      "arabic": "اللَّهُمَّ اجْبُرْ كَسْرِي، وَآوِنِي فِي وَحْدَتِي، وَارْزُقْنِي مَنْ يُحِبُّنِي لِوَجْهِكَ",
+      "transliteration": "Allahumma ajbur kasri, wa awwini fi wahdati, warzuqni man yuhibbuni liwajhik.",
+      "translation": "O Allah, mend my brokenness, support me in my loneliness, and grant me someone who loves me for Your sake."
+    },
+    {
+      "reference": "Surah Al-Imran (3:139)",
+      "text": "So do not weaken and do not grieve, and you will be superior if you are [true] believers."
+    },
+    {
+      "reference": "Surah Az-Zumar (39:53)",
+      "text": "Say, 'O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins...'"
+    },
+    {
+      "reference": "Surah Al-Hajj (22:15)",
+      "text": "Indeed, Allah defends those who believe. Indeed, Allah does not like everyone treacherous and ungrateful."
+    },
+    {
+      "arabic": "اللَّهُمَّ لَا تَكِلْنِي إِلَى أَحَدٍ، وَكُنْ أَنْتَ لِي كُلَّ شَيْءٍ",
+      "transliteration": "Allahumma la takilni ila ahad, wakun anta li kulla shay’",
+      "translation": "O Allah, do not leave me in the care of anyone else; be everything I need."
+    }
+  ],
+  "emotional_overwhelm": [
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي صَدْرِي رَاحَةً، وَفِي نَفْسِي سَكِينَةً",
+      "transliteration": "Allahumma aj‘al fi qalbi nooran, wa fi sadri rahatan, wa fi nafsi sakeenatan.",
+      "translation": "O Allah, place light in my heart, comfort in my chest, and tranquility in my soul."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:286)",
+      "text": "Our Lord, do not burden us beyond what we can bear..."
+    },
+    {
+      "reference": "Surah Ash-Sharh (94:5–6)",
+      "text": "Indeed, with hardship will be ease. Indeed, with hardship will be ease."
+    },
+    {
+      "reference": "Surah Yunus (10:57)",
+      "text": "O mankind, there has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers."
+    },
+    {
+      "arabic": "اللَّهُمَّ ارْزُقْنِي سَكِينَةَ النَّفْسِ وَهُدُوءَ الْقَلْبِ وَطُمَأْنِينَةَ الرُّوحِ",
+      "transliteration": "Allahumma urzuqni sakeenat al-nafs wa hudu’ al-qalb wa tuma’ninat al-rooh.",
+      "translation": "O Allah, grant me peace of mind, calmness of heart, and tranquility of the soul."
+    }
+  ],
+  "fear_of_future": [
+    {
+      "arabic": "اللَّهُمَّ إني أسألك طمأنينة تملأ قلبي وثقة تُذهب خوفي من الغد",
+      "transliteration": "Allahumma inni as’aluka tumannina tamla qalbi wa thiqa tadhhab khawfi min al-ghad.",
+      "translation": "O Allah, I ask You for reassurance that fills my heart and trust that removes my fear of tomorrow."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:286)",
+      "text": "Allah does not burden a soul beyond that it can bear..."
+    },
+    {
+      "reference": "Surah At-Talaq (65:2-3)",
+      "text": "And whosoever fears Allah – He will make a way for him to get out and provide for him from sources he could never imagine."
+    }
+  ],
+  "social_anxiety": [
+    {
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي، وَيَسِّرْ لِي أَمْرِي، وَاحلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي",
+      "transliteration": "Rabbi ishrah li sadri, wa yassir li amri, wahlul ‘uqdatan min lisani yafqahu qawli.",
+      "translation": "O my Lord, expand my chest for me, ease my task for me, and untie the knot from my tongue so they may understand my speech."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجعلني مطمئنًا عند اللقاء، ثابتًا في الحديث، حسنَ الخلقِ والكلام.",
+      "transliteration": "Allahumma aj‘alni mutma’innan ‘ind al-liqaa, thabitan fi al-hadith, hasan al-khuluq wa al-kalam.",
+      "translation": "O Allah, grant me calmness when I meet others, steadiness in speech, and good character."
+    },
+    {
+      "reference": "Surah Aal-Imran (3:139)",
+      "text": "Do not weaken and do not grieve, for you will be superior if you are true believers."
+    },
+    {
+      "reference": "The Prophet ﷺ said: Sahih Bukhari & Muslim",
+      "text": "He who believes in Allah and the Last Day should speak good or remain silent."
+    }
+  ],
+  "performance_anxiety": [
+    {
+      "arabic": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ",
+      "transliteration": "Wa ma tawfiqi illa billah, ‘alayhi tawakkaltu.",
+      "translation": "And my success is not but through Allah. Upon Him I have relied."
+    },
+    {
+      "arabic": "اللَّهُمَّ أعني على تقديم الأفضل، وثبت قلبي عند التحديات.",
+      "transliteration": "Allahumma a‘inni ‘ala taqdeem al-afdal, wa thabbit qalbi ‘ind al-tahaddiyat.",
+      "translation": "O Allah, help me give my best and make my heart firm during challenges."
+    },
+    {
+      "reference": "The Prophet ﷺ said: Al-Bayhaqi",
+      "text": "Verily, Allah loves when one of you does something, he does it with excellence."
+    },
+    {
+      "arabic": "اللَّهُمَّ لا سهل إلا ما جعلته سهلاً",
+      "transliteration": "Allahumma la sahla illa ma ja’altahu sahla.",
+      "translation": "O Allah, there is no ease except what You make easy."
+    }
+  ],
+  "health_anxiety": [
+    {
+      "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+      "transliteration": "Wa idha maridtu fahuwa yashfeen.",
+      "translation": "And when I am ill, it is He who cures me. – Surah Ash-Shu‘ara (26:80)"
+    },
+    {
+      "arabic": "اللَّهُمَّ إني أسألك العافية في الدنيا والآخرة.",
+      "transliteration": "Allahumma inni asaluka al-‘afiyah fid-dunya wal-akhirah.",
+      "translation": "O Allah, I ask You for well-being in this life and the next."
+    },
+    {
+      "arabic": "اللَّهُمَّ أَذْهِبِ الْبَأْسَ، رَبَّ النَّاسِ، اشْفِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ",
+      "transliteration": "Allahumma adhhib al-ba’s, Rabb an-nas, ishfi wa anta ash-Shafi, la shifa’a illa shifa’uka.",
+      "translation": "O Allah, remove the harm, Lord of mankind, cure me, for You are the Healer. – Sahih al-Bukhari"
+    },
+    {
+      "reference": "Surah Al-Mulk (67:29)",
+      "text": "Say: 'He is the Most Merciful; we have believed in Him, and upon Him we rely.'"
+    }
+  ],
+
+  "generalized_worry": [
+    {
+      "arabic": "اللَّهُمَّ إني أعوذ بك من الهم والحزن، والعجز والكسل، والجبن والبخل، وغلبة الدين وقهر الرجال",
+      "transliteration": "Allahumma inni a‘udhu bika min al-hammi wal-hazan, wal-‘ajzi wal-kasal, wal-jubni wal-bukhl, wa ghalabatid-dayni wa qahrir-rijal.",
+      "translation": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, cowardice and stinginess, the burden of debts and being overpowered by men. – Sahih al-Bukhari"
+    },
+    {
+      "reference": "Surah Ar-Ra’d (13:28)",
+      "text": "Verily, in the remembrance of Allah do hearts find rest."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجعل قلبي مطمئنًا بذكرك، وصدري منشرحًا بطاعتك.",
+      "transliteration": "Allahumma aj‘al qalbi mutma’innan bidhikrik, wa sadri munsharihan bita‘atik.",
+      "translation": "O Allah, make my heart tranquil with Your remembrance and my chest open through Your obedience."
+    },
+    {
+      "reference": "Surah At-Talaq (65:2)",
+      "text": "And whoever fears Allah – He will make for him a way out."
+    }
+  ],
+  "frustration": [
+    {
+      "arabic": "اللَّهُمَّ اكفني ما أهمني، واصرف عني ضيق صدري",
+      "transliteration": "Allahumma ikfini ma ahammani, wasrif ‘anni deeqa sadri.",
+      "english": "O Allah, suffice me from what burdens me and remove the tightness from my chest."
+    },
+    {
+      "reference": "Surah Ash-Sharh (94:5–6)",
+      "text": "So verily, with hardship comes ease. Verily, with hardship comes ease."
+    },
+    {
+      "arabic": "رَبِّ لَا تَجْعَلْنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+      "transliteration": "Rabbi la taj‘alni mina al-qawmi al-zalimeen.",
+      "english": "My Lord, do not place me among the wrongdoers. – Surah Al-A‘raf (7:47)"
+    },
+    {
+      "arabic": "اللَّهُمَّ إني أعوذ بك من الهم والحَزَن، والعَجز والكَسل",
+      "transliteration": "Allahumma inni a‘udhu bika min al-hammi wal-hazan, wal-‘ajzi wal-kasal.",
+      "english": "O Allah, I seek refuge in You from anxiety and grief, weakness and laziness."
+    }
+  ],
+  "resentment": [
+    {
+      "arabic": "اللَّهُمَّ طهر قلبي من الغل والحقد والحسد",
+      "transliteration": "Allahumma tahhir qalbi mina al-ghilli wal-hiqd wal-hasad.",
+      "english": "O Allah, purify my heart from resentment, hatred, and envy."
+    },
+    {
+      "reference": "Surah Al-Hashr (59:10)",
+      "text": "And do not place in our hearts any resentment toward those who have believed."
+    },
+    {
+      "arabic": "اللَّهُمَّ ارزقني صدراً سليماً ونفساً مطمئنة",
+      "transliteration": "Allahumma arzuqni sadran saleeman wa nafsan mutma’innah.",
+      "english": "O Allah, grant me a sound heart and a tranquil soul."
+    },
+    {
+      "reference": "Surah Ash-Shura (42:43)",
+      "text": "But indeed, whoever is patient and forgives – indeed, that is of the matters [requiring] determination."
+    }
+  ],
+  "rage": [
+    {
+      "arabic": "اللَّهُمَّ أنزل السكينة على قلبي، وأطفئ نار الغضب في صدري",
+      "transliteration": "Allahumma anzil al-sakeenata ‘ala qalbi, wa atfi’ nara al-ghadab fi sadri.",
+      "english": "O Allah, send tranquility into my heart and extinguish the fire of rage in my chest."
+    },
+    {
+      "reference": "Surah Aal-Imran (3:134)",
+      "text": "And those who restrain anger and pardon people – and Allah loves the doers of good."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجعلني ممن يملكون أنفسهم عند الغضب",
+      "transliteration": "Allahumma aj‘alni mimman yamlikoona anfusahum ‘inda al-ghadab.",
+      "english": "O Allah, make me among those who control themselves when angry."
+    },
+    {
+      "reference": "Surah Al-Furqan (25:63)",
+      "text": "And when the ignorant address them [harshly], they say [words of] peace."
+    }
+  ],
+  "injustice": [
+    {
+      "arabic": "اللَّهُمَّ أرنا الحق حقاً وارزقنا اتباعه، وأرنا الباطل باطلاً وارزقنا اجتنابه",
+      "transliteration": "Allahumma arina al-haqqa haqqan warzuqna ittiba’ah, wa arina al-batila batilan warzuqna ijtinabah.",
+      "english": "O Allah, show us truth as truth and grant us the ability to follow it, and show us falsehood as falsehood and help us avoid it."
+    },
+    {
+      "reference": "Surah Ibrahim (14:42)",
+      "text": "And never think that Allah is unaware of what the wrongdoers do."
+    },
+    {
+      "arabic": "اللَّهُمَّ أنصف المظلوم، وارفع الظلم، واجعلنا من العادلين",
+      "transliteration": "Allahumma ansif al-mazloom, warfa‘ al-zulm, waj‘alna mina al-‘adileen.",
+      "english": "O Allah, give justice to the oppressed, lift the oppression, and make us among the just."
+    },
+    {
+      "reference": "Surah An-Nisa (4:135)",
+      "text": "Be persistently standing firm in justice, witnesses for Allah."
+    }
+  ],
+  "passive_aggression": [
+    {
+      "arabic": "اللَّهُمَّ اجعلني قويًا بالحق، لطيفًا في القول، صادقًا مع نفسي والناس",
+      "transliteration": "Allahumma aj‘alni qawiyyan bil-haqq, lateefan fil-qawl, sadiqan ma‘ nafsi wal-naas.",
+      "english": "O Allah, make me strong in truth, gentle in speech, and honest with myself and others."
+    },
+    {
+      "reference": "Surah Al-Hujurat (49:11)",
+      "text": "Do not defame one another or insult each other with nicknames."
+    },
+    {
+      "arabic": "اللَّهُمَّ طهر قلبي من الغضب غير المعلن، واملأه بالرحمة والصراحة",
+      "transliteration": "Allahumma tahhir qalbi mina al-ghadab ghayr al-mu‘lan, wa amla’hu bil-rahmah wa al-sarahah.",
+      "english": "O Allah, cleanse my heart of unspoken anger and fill it with mercy and honesty."
+    },
+    {
+      "reference": "Surah Al-Isra (17:53)",
+      "text": "And tell My servants to say that which is best."
+    }
+  ],
+  "personal_regret": [
+    {
+      "arabic": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلاَنِيَتَهُ وَسِرَّهُ",
+      "transliteration": "Allahumma ighfir li dhanbi kullahu, diqqahu wa jillahu, wa awwalahu wa akhirahu, wa ‘alaaniyatahu wa sirrahu.",
+      "english": "O Allah, forgive all of my sins—small and great, first and last, open and secret."
+    },
+    {
+      "reference": "Surah Al-Imran (3:133)",
+      "text": "And hasten to forgiveness from your Lord and a garden as wide as the heavens and earth, prepared for the righteous."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:222)",
+      "text": "Indeed, Allah loves those who are constantly repentant and loves those who purify themselves."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي خَيْرًا مِمَّا يَظُنُّونَ، وَاغْفِرْ لِي مَا لَا يَعْلَمُونَ",
+      "transliteration": "Allahumma aj‘alni khayran mimma yazunnoon, waghfir li ma la ya‘lamoon.",
+      "english": "O Allah, make me better than they think of me, and forgive me for what they don’t know."
+    }
+  ],
+  "moral_accountability": [
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+      "transliteration": "Allahumma aj‘alni minat-tawwabeen, waj‘alni minal-mutatahhireen.",
+      "english": "O Allah, make me among those who constantly repent and purify themselves."
+    },
+    {
+      "reference": "Surah Az-Zumar (39:53)",
+      "text": "Say, 'O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins…'"
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:186)",
+      "text": "And when My servants ask you concerning Me – indeed I am near. I respond to the invocation of the supplicant when he calls upon Me."
+    },
+    {
+      "arabic": "اللَّهُمَّ لَا تَجْعَلْنِي مِنَ الْغَافِلِينَ",
+      "transliteration": "Allahumma la taj‘alni minal-ghafileen.",
+      "english": "O Allah, do not make me among the heedless."
+    },
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَسْتَغْفِرُكَ لِكُلِّ ذَنْبٍ وَأَتُوبُ إِلَيْكَ",
+      "transliteration": "Allahumma inni astaghfiruka likulli dhanbin wa atoobu ilayk.",
+      "english": "O Allah, I seek Your forgiveness for all my sins and I repent to You."
+    }
+  ],
+  "relationship_guilt": [
+    {
+      "arabic": "اللَّهُمَّ أَلِّفْ بَيْنَ قُلُوبِنَا وَأَصْلِحْ ذَاتَ بَيْنِنَا",
+      "transliteration": "Allahumma allif bayna quloobina, wa aslih dhaata baynina.",
+      "english": "O Allah, unite our hearts and mend the relationships between us."
+    },
+    {
+      "reference": "Surah Al-Hujurat (49:10)",
+      "text": "The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:83)",
+      "text": "…And speak to people kindly…"
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي بَرًّا بِوَالِدَيَّ وَأَهْلِي",
+      "transliteration": "Allahumma aj‘alni barran biwalidayya wa ahli.",
+      "english": "O Allah, make me dutiful to my parents and family."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي مِفْتَاحًا لِلْخَيْرِ، مِغْلَاقًا لِلشَّرِّ",
+      "transliteration": "Allahumma aj‘alni miftahan lil-khayr, mighlaqan lish-sharr.",
+      "english": "O Allah, make me a key for goodness and a lock for evil."
+    }
+  ],
+  "improvement_amends": [
+    {
+      "arabic": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي",
+      "transliteration": "Allahumma ihdini wasaddidni.",
+      "english": "O Allah, guide me and keep me firm on the right path."
+    },
+    {
+      "reference": "Surah Al-Ra’d (13:11)",
+      "text": "Indeed, Allah will not change the condition of a people until they change what is in themselves."
+    },
+    {
+      "arabic": "اللَّهُمَّ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+      "transliteration": "Allahumma thabbit qalbi ‘ala deenik.",
+      "english": "O Allah, keep my heart firm on Your religion."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْ حَيَاتِي خَيْرًا وَخَاتِمَتِي أَحْسَنَ",
+      "transliteration": "Allahumma aj‘al hayati khayran wa khatimati ahsan.",
+      "english": "O Allah, make my life good and my end better."
+    },
+    {
+      "reference": "Surah Al-Furqan (25:70)",
+      "text": "Except for those who repent, believe and do righteous work. For them Allah will replace their evil deeds with good. And ever is Allah Forgiving and Merciful."
+    }
+  ],
+  "gratitude": [
+    {
+      "arabic": "اللَّهُمَّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ",
+      "transliteration": "Allahumma awzi'ni an ashkura ni'mataka allati an'amta 'alayya.",
+      "english": "O Allah, grant me the ability to be thankful for Your blessings upon me."
+    },
+    {
+      "reference": "Surah Ibrahim (14:7)",
+      "text": "“If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.”"
+    },
+    {
+      "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ كَمَا يَجِبُ لِجَلَالِ وَجْهِكَ وَعَظِيمِ سُلْطَانِكَ",
+      "transliteration": "Allahumma laka al-hamdu kama yajibu lijalali wajhika wa 'azimi sultanika.",
+      "english": "O Allah, all praise is due to You as befits the glory of Your Face and the greatness of Your authority."
+    },
+    {
+      "reference": "Surah An-Nahl (16:18)",
+      "text": "“If you tried to count the favors of Allah, you would not be able to number them.”"
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الشَّاكِرِينَ",
+      "transliteration": "Allahumma aj‘alni min ash-shakireen.",
+      "english": "O Allah, make me among the thankful."
+    }
+  ],
+  "contentment": [
+    {
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+      "english": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
+    },
+    {
+      "reference": "Surah Al-Furqan (25:63)",
+      "text": "“And the servants of the Most Merciful are those who walk upon the earth humbly...”"
+    },
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الرِّضَا بِالْقَضَاءِ وَالْقَنَاعَةَ بِالْعَطَاءِ",
+      "transliteration": "Allahumma inni as’aluka ar-rida bil-qada’ wal-qana’ah bil-‘ata.",
+      "english": "O Allah, I ask You for contentment with Your decree and satisfaction with Your gifts."
+    },
+    {
+      "reference": "Surah At-Tawbah (9:51)",
+      "text": "“Say, ‘Never will we be struck except by what Allah has decreed for us; He is our protector.’”"
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْ قَلْبِي رَاضِيًا بِقَضَائِكَ",
+      "transliteration": "Allahumma aj‘al qalbi radiyyan bi qada’ika.",
+      "english": "O Allah, make my heart content with Your decree."
+    }
+  ],
+  "excitement": [
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَفَائِلِينَ بِرَحْمَتِكَ وَفَضْلِكَ",
+      "transliteration": "Allahumma aj‘alni minal mutafa’ilina birahmatika wa fadlika.",
+      "english": "O Allah, make me among those who are optimistic in Your mercy and bounty."
+    },
+    {
+      "arabic": "اللَّهُمَّ بَارِكْ لِي فِي أَمْرِي وَفِي أَوْقَاتِي وَاجْعَلْنِي مِمَّنْ يَشْكُرُ نِعْمَتَهُ",
+      "transliteration": "Allahumma barik li fi amri wa fi awqati wa aj‘alni mimman yashkuru ni‘matahu.",
+      "english": "O Allah, bless my affairs and times, and make me among those who are thankful for Your blessings."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْ حَيَاتِي مَليئَةً بِالْفَرَحِ وَالنَّجَاحِ",
+      "transliteration": "Allahumma aj‘al hayati mali’atan bil-farh wal-najah.",
+      "english": "O Allah, make my life full of joy and success."
+    }
+  ],
+  "pride": [
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي فَخُورًا بِصَبْرِي وَثَبَاتِي",
+      "transliteration": "Allahumma aj‘alni fakhuran bisabri wa thabati.",
+      "english": "O Allah, make me proud of my patience and steadfastness."
+    },
+    {
+      "reference": "Surah Al-Furqan (25:63)",
+      "text": "“And the servants of the Most Merciful are those who walk upon the earth humbly...”"
+    }
+  ],
+  "love": [
+    {
+      "reference": "Surah Al-Ma’idah (5:54)",
+      "text": "“Indeed, Allah loves those who rely upon Him.”"
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُحِبِّينَ لَكَ وَمِنَ الْمُحْسِنِينَ إِلَى خَلْقِكَ",
+      "transliteration": "Allahumma aj‘alna minal muhibbina laka wa minal muhsinin ila khalqik.",
+      "english": "O Allah, make us among those who love You and do good to Your creation."
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْ قُلُوبَنَا مُمْتَلِئَةً بِالْمَحَبَّةِ وَالْمَوَدَّةِ",
+      "transliteration": "Allahumma aj‘al qulubana mumtali’atan bil-mahabbati wal-mawaddah.",
+      "english": "O Allah, make our hearts full of love and affection."
+    }
+  ],
+  "optimism": [
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْ أَمْرِي خَيْرًا وَفَرِّجْ هَمِّي وَارْزُقْنِي مِنْ حَيْثُ لَا أَحْتَسِبُ",
+      "transliteration": "Allahumma aj‘al amri khayran wa farrij hammi warzuqni min haythu la ahtasib.",
+      "english": "O Allah, make my affairs good, relieve my distress, and provide for me from unexpected sources."
+    },
+    {
+      "reference": "Surah Ash-Sharh (94:5-6)",
+      "text": "“For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.”"
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَفَائِلِينَ بِرَحْمَتِكَ",
+      "transliteration": "Allahumma aj‘alni minal mutafa’ilina birahmatika.",
+      "english": "O Allah, make me among those optimistic in Your mercy."
+    },
+    {
+      "reference": "Surah Al-Anfal (8:40)",
+      "text": "“And whoever relies upon Allah – then He is sufficient for him.”"
+    },
+    {
+      "arabic": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "transliteration": "Rabbi inni lima anzalta ilayya min khayrin faqir.",
+      "english": "My Lord, indeed I am, for whatever good You would send down to me, in need."
+    }
+  ],
+  "faith_mercy_help": [
+    {
+      "arabic": "رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
+      "transliteration": "Rabbi inni zalamtu nafsi faghfir li.",
+      "english": "My Lord, indeed I have wronged myself, so forgive me."
+    },
+    {
+      "reference": "Surah Az-Zumar (39:53)",
+      "text": "“Say, 'O My servants who have transgressed against themselves, do not despair of the mercy of Allah...'”"
+    },
+    {
+      "arabic": "اللَّهُمَّ أَنْتَ الْغَفُورُ الرَّحِيمُ فَاغْفِرْ لِي ذُنُوبِي",
+      "transliteration": "Allahumma anta al-Ghafur ar-Rahim faghfir li dhunubi.",
+      "english": "O Allah, You are the Forgiving, the Merciful; forgive my sins."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:286)",
+      "text": "“Allah does not burden a soul beyond that it can bear...”"
+    },
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَسْتَغِيثُ بِرَحْمَتِكَ وَعَفْوِكَ",
+      "transliteration": "Allahumma inni astaghithu birahmatika wa ‘afwika.",
+      "english": "O Allah, I seek help through Your mercy and forgiveness."
+    }
+  ],
+  "patience": [
+    {
+      "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "transliteration": "Rabbana afrigh ‘alayna sabran wa tawaffana muslimin.",
+      "english": "Our Lord, pour upon us patience and let us die as Muslims [in submission to You]."
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:153)",
+      "text": "“O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.”"
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي صَبُورًا وَثَابِتًا عَلَى طَاعَتِكَ",
+      "transliteration": "Allahumma aj‘alni saburan wa thabitan ‘ala ta‘atika.",
+      "english": "O Allah, make me patient and steadfast in obeying You."
+    },
+    {
+      "reference": "Surah Al-Asr (103:1-3)",
+      "text": "“By time, indeed, mankind is in loss, except for those who have believed and done righteous deeds and advised each other to truth and patience.”"
+    }
+  ],
+  "personal_goals": [
+    {
+      "arabic": "اللَّهُمَّ هَدِنِي وَسَدِّدْنِي وَاجْعَلْنِي مِنَ الْمُحْسِنِينَ",
+      "transliteration": "Allahumma hadini wa saddidni wa aj‘alni minal muhsinin.",
+      "english": "O Allah, guide me, make me steadfast, and make me among the doers of good."
+    },
+    {
+      "reference": "Surah Al-Furqan (25:74)",
+      "text": "“Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.”"
+    },
+    {
+      "arabic": "اللَّهُمَّ اجْعَلْنِي أَحْسَنَ عَبْدِكَ وَاجْعَلْنِي مِنَ الصَّالِحِينَ",
+      "transliteration": "Allahumma aj‘alni ahsana ‘abdika wa aj‘alni min as-salihin.",
+      "english": "O Allah, make me Your best servant and make me among the righteous."
+    },
+    {
+      "reference": "Surah Al-Mu’minun (23:1-2)",
+      "text": "“Certainly will the believers have succeeded: They who are during their prayer humbly submissive.”"
+    }
+  ],
+  "relief_success": [
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ فَرَجًا وَرَحْمَةً وَنَجَاةً مِنَ الْكَرْبِ وَالْهَمِّ",
+      "transliteration": "Allahumma inni as’aluka farajan wa rahmatan wa najatan minal karbi wal hammi.",
+      "english": "O Allah, I ask You for relief, mercy, and deliverance from distress and worry."
+    },
+    {
+      "reference": "Surah At-Tawbah (9:51)",
+      "text": "“Say, ‘Never will we be struck except by what Allah has decreed for us; He is our protector.’”"
+    },
+    {
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+      "transliteration": "Rabbi ishrah li sadri wa yassir li amri.",
+      "english": "My Lord, expand for me my breast [with assurance] and ease for me my task."
+    },
+    {
+      "reference": "Surah Yusuf (12:87)",
+      "text": "“Indeed, no one despairs of relief from Allah except the disbelieving people.”"
+    },
+    {
+      "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+      "transliteration": "Allahumma a‘inni ‘ala dhikrika wa shukrika wa husni ‘ibadatika.",
+      "english": "O Allah, help me remember You, be grateful to You, and worship You in the best manner."
+    }
+  ],
+  "indecision": [
+    {
+      "arabic": "دُعَاءُ الاِسْتِخَارَةِ",
+      "transliteration": "Allahumma inni astakhiruka bi'ilmika, wa astaqdiruka biqudratika, wa as'aluka min fadlika al-'azim.",
+      "english": "“O Allah, I seek Your counsel by Your knowledge and by Your power I seek strength and I ask You from Your immense favor.”"
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:286)",
+      "text": "“Allah does not burden a soul beyond that it can bear.”"
+    }
+  ],
+  "uncertainty": [
+    {
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ",
+      "transliteration": "Rabbana la tuzigh quloobana ba'da idh hadaytana wahab lana min ladunka rahmah, innaka antal wahhab.",
+      "english": "“Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.”"
+    },
+    {
+      "reference": "Surah Al-Ankabut (29:69)",
+      "text": "“And those who strive for Us - We will surely guide them to Our ways.”"
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:153)",
+      "text": "“O you who have believed, seek help through patience and prayer.”"
+    }
+  ],
+  "mental_fog": [
+    {
+      "arabic": "اللَّهُمَّ افْتَحْ عَلَيْنَا حِكْمَتَكَ وَنُورَكَ وَفَهْمَكَ",
+      "transliteration": "Allahumma iftah 'alayna hikmataka wa nooraka wa fahmaka.",
+      "english": "“O Allah, open for us Your wisdom, light, and understanding.”"
+    },
+    {
+      "reference": "Surah Ta-Ha (20:114)",
+      "text": "“And say, 'My Lord, increase me in knowledge.'”"
+    },
+    {
+      "reference": "Surah Ash-Sharh (94:5-6)",
+      "text": "“For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.”"
+    }
+  ],
+  "doubt": [
+    {
+      "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ",
+      "transliteration": "Rabbana la taj'alna fitnatan lilladhina kafaru waghfir lana rabbana innaka antal Azizul Hakim.",
+      "english": "“Our Lord, make us not [objects of] trial for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.”"
+    },
+    {
+      "reference": "Surah Fussilat (41:30)",
+      "text": "“Indeed, those who have said, 'Our Lord is Allah' and then remained on a right course.”"
+    }
+  ],
+  "overwhelm": [
+    {
+      "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "transliteration": "Hasbiyallahu la ilaha illa Huwa, 'alayhi tawakkaltu wa Huwa rabbul-'arshil-'azim.",
+      "english": "“Allah is Sufficient for me; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.”"
+    },
+    {
+      "reference": "Surah Al-Inshirah (94:5-6)",
+      "text": "“For indeed, with hardship comes ease. Indeed, with hardship comes ease.”"
+    },
+    {
+      "reference": "Surah Al-Baqarah (2:286)",
+      "text": "“Allah does not burden a soul beyond that it can bear.”"
+    }
+  ]
+}

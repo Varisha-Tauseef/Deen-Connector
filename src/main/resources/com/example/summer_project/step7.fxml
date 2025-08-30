@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="720.0" maxWidth="1280.0" minHeight="720.0" minWidth="1280.0" prefHeight="720.0" prefWidth="1280.0" stylesheets="@step7.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.summer_project.gui.Step7Controller">
+    <ImageView fitHeight="81.0" fitWidth="148.0" layoutX="237.0" layoutY="49.0" onMouseClicked="#goToPage6" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@images/greenarrow.png" />
+        </image>
+    </ImageView>
+    <ImageView fitHeight="60.0" fitWidth="113.0" layoutX="-15.0" layoutY="251.0" onMouseClicked="#goToCalendar" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@images/whitecalendar.png" />
+        </image>
+    </ImageView>
+    <ImageView fitHeight="67.0" fitWidth="116.0" layoutX="-23.0" layoutY="468.0" onMouseClicked="#goToSetting" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@images/whitesetting.png" />
+        </image>
+    </ImageView>
+    <ImageView fitHeight="65.0" fitWidth="112.0" layoutX="-20.0" layoutY="181.0" onMouseClicked="#goToHome" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@images/whitehome.png" />
+        </image>
+    </ImageView>
+    <ImageView fitHeight="62.0" fitWidth="108.0" layoutX="-19.0" layoutY="399.0" onMouseClicked="#goToEmotionDetector" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@images/whiteemotion.png" />
+        </image>
+    </ImageView>
+    <ImageView fitHeight="60.0" fitWidth="104.0" layoutX="-16.0" layoutY="324.0" onMouseClicked="#goToSalahSteps" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@images/whitesalah.png" />
+        </image>
+    </ImageView>
+    <Label layoutX="70.0" layoutY="203.0" onMouseClicked="#goToHome" text="Home" textFill="WHITE">
+        <font>
+            <Font name="Cambria Bold" size="16.0" />
+        </font>
+    </Label>
+    <Label layoutX="68.0" layoutY="271.0" onMouseClicked="#goToCalendar" text="Calendar" textFill="WHITE">
+        <font>
+            <Font name="Cambria Bold" size="16.0" />
+        </font>
+    </Label>
+    <Label layoutX="68.0" layoutY="343.0" onMouseClicked="#goToSalahSteps" text="Salah Steps" textFill="WHITE">
+        <font>
+            <Font name="Cambria Bold" size="16.0" />
+        </font>
+    </Label>
+    <Label layoutX="67.0" layoutY="420.0" onMouseClicked="#goToEmotionDetector" text="Relief" textFill="WHITE">
+        <font>
+            <Font name="Cambria Bold" size="16.0" />
+        </font>
+    </Label>
+    <Label layoutX="67.0" layoutY="490.0" onMouseClicked="#goToSetting" text="Setting" textFill="WHITE">
+        <font>
+            <Font name="Cambria Bold" size="16.0" />
+        </font>
+    </Label>
+</AnchorPane>
+

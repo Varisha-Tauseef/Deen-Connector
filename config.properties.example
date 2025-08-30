@@ -1,0 +1,16 @@
+# Configuration Template
+# Copy this file to "config.properties" and fill in your own credentials
+
+# Email Credentials
+senderEmail=your_email@example.com
+senderPassword=your_password_here
+
+# API Key
+firebaseAuthAPIKey=your_firebase_api_key_here
+
+# Database Connection
+databaseURL=https://your-database-url-here.com
+
+# API Endpoints
+SalahStepsAPIURL=https://your-api-url-here.com
+emotionClassifierAPI=https://your-api-url-here.com

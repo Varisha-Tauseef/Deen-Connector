@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="720.0" maxWidth="1280.0" minHeight="720.0" minWidth="1280.0" prefHeight="720.0" prefWidth="1280.0" stylesheets="@login.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.summer_project.gui.LoginController">
+    <children>
+        <!-- VBox container -->
+        <VBox alignment="CENTER" layoutX="137.0" layoutY="212.0" prefHeight="414.0" prefWidth="450.0" spacing="15.0">
+
+            <!-- Username/Email -->
+            <VBox prefHeight="83.0" prefWidth="404.0">
+                <Label prefHeight="33.0" prefWidth="147.0" text="Email:" textFill="#fffdf8">
+               <font>
+                  <Font name="Cambria Math" size="18.0" />
+               </font></Label>
+                <TextField fx:id="emailField" prefHeight="50.0" prefWidth="404.0" promptText="Enter email" style="-fx-background-color: #fffdf8;" />
+            </VBox>
+
+            <!-- Password -->
+            <VBox prefHeight="114.0" prefWidth="404.0">
+                <Label prefHeight="33.0" prefWidth="147.0" text="Password:" textFill="#fffdf8">
+               <font>
+                  <Font name="Cambria Math" size="18.0" />
+               </font></Label>
+                <PasswordField fx:id="passwordField" prefHeight="50.0" prefWidth="404.0" promptText="Enter password" style="-fx-background-color: #fffdf8;" />
+            <Hyperlink alignment="CENTER_RIGHT" onAction="#handleForgotPassword" prefHeight="33.0" prefWidth="451.0" text="forgot password?" textAlignment="RIGHT" textFill="WHITE" underline="true">
+               <font>
+                  <Font name="Cambria Math" size="16.0" />
+               </font>
+            </Hyperlink>
+            </VBox>
+
+            <!-- Sign In Button -->
+            <Button onAction="#handleSignIn" prefHeight="41.0" prefWidth="91.0" text="Sign In">
+                <style>
+                    -fx-background-radius: 20;
+                    -fx-background-color: #4CAF50;
+                    -fx-text-fill: white;
+                    -fx-font-size: 14px;-fx-padding: 8 20 8 20; -fx-text-fill: black; -fx-background-color: #fffdf8;</style>
+            <font>
+               <Font name="Cambria Math" size="16.0" />
+            </font>
+            </Button>
+
+            <!-- Hyperlink -->
+            <Hyperlink onAction="#handleSignupLink" text="Don't have an account?" textFill="WHITE" underline="true">
+            <font>
+               <Font name="Cambria Math" size="16.0" />
+            </font></Hyperlink>
+        </VBox>
+
+                  <!-- Title Label -->
+         <Label alignment="CENTER" layoutX="104.0" layoutY="99.0" prefHeight="148.0" prefWidth="516.0" text="Welcome Back!" textFill="#fffdf8">
+             <font>
+                 <Font name="Cambria Math" size="70.0" />
+             </font>
+         </Label>
+    </children>
+
+
+</AnchorPane>

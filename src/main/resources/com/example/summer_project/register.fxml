@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="720.0" maxWidth="1280.0" minHeight="720.0" minWidth="1280.0" prefHeight="720.0" prefWidth="1280.0" stylesheets="@register.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.summer_project.gui.RegisterController">
+    <children>
+
+        <!-- VBox Container for fields -->
+        <VBox alignment="CENTER" layoutX="713.0" layoutY="105.0" prefHeight="530.0" prefWidth="409.0" spacing="15.0">
+           <!-- Title Label -->
+           <Label prefHeight="77.0" prefWidth="389.0" text="Create An Account" textFill="#223d3c">
+               <font>
+                   <Font name="Cambria Math" size="48.0" />
+               </font>
+           </Label>
+            <!-- Username -->
+            <VBox>
+                <Label prefHeight="27.0" prefWidth="93.0" text="Username:">
+               <font>
+                  <Font name="Cambria Math" size="16.0" />
+               </font></Label>
+                <TextField fx:id="usernameField" prefHeight="41.0" prefWidth="510.0" style="-fx-control-inner-background: #223d3c;" />
+            </VBox>
+
+            <!-- Email -->
+            <VBox>
+                <Label prefHeight="27.0" prefWidth="44.0" text="Email:">
+               <font>
+                  <Font name="Cambria Math" size="16.0" />
+               </font></Label>
+                <TextField fx:id="emailField" prefHeight="41.0" prefWidth="510.0" style="-fx-control-inner-background: #233d3c;" />
+            </VBox>
+
+            <!-- Password -->
+            <VBox>
+                <Label prefHeight="27.0" prefWidth="71.0" text="Password:">
+               <font>
+                  <Font name="Cambria Math" size="16.0" />
+               </font></Label>
+                <TextField fx:id="passwordField" prefHeight="41.0" prefWidth="510.0" style="-fx-control-inner-background: #233d3c;" />
+            </VBox>
+
+            <!-- HBox for Button and Hyperlink -->
+            <HBox alignment="CENTER" prefHeight="66.0" prefWidth="498.0" spacing="20.0">
+                <Button fx:id="signupButton" onAction="#handleSignup" prefHeight="14.0" prefWidth="89.0" text="Sign Up">
+                    <style>
+                        -fx-background-radius: 20;
+                        -fx-background-color: #4CAF50;
+                        -fx-text-fill: white;
+                        -fx-font-size: 14px;-fx-padding: 8 20 8 20; -fx-background-color: #233d3c;</style>
+               <font>
+                  <Font name="Cambria Math" size="14.0" />
+               </font>
+                </Button>
+                <Hyperlink fx:id="loginLink" onAction="#handleLoginLink" text="Have an account?" textFill="#233d3c" underline="true">
+               <font>
+                  <Font name="Cambria Math" size="14.0" />
+               </font></Hyperlink>
+            </HBox>
+        </VBox>
+    </children>
+
+
+</AnchorPane>

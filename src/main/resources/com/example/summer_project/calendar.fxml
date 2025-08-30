@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<VBox fx:id="rootContainer" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+      stylesheets="@calendar.css" fx:controller="com.example.summer_project.gui.CalendarController" spacing="10">
+
+    <!-- Padding to shift content toward right -->
+    <padding>
+        <Insets top="20" right="30" bottom="10" left="50"/>
+    </padding>
+
+    <!-- Month label centered above calendar -->
+    <BorderPane prefWidth="800">
+        <!-- Left side: Arrow -->
+        <left>
+            <ImageView fitHeight="76.0" fitWidth="138.0"
+                       onMouseClicked="#handleHome" pickOnBounds="true" preserveRatio="true">
+                <image>
+                    <Image url="@images/greenarrow.png" />
+                </image>
+            </ImageView>
+        </left>
+
+        <!-- Center: Label -->
+        <center>
+            <Label fx:id="monthLabel"
+                   alignment="CENTER"
+                   style="-fx-font-size: 32; -fx-font-weight: bold;" />
+        </center>
+    </BorderPane>
+
+
+
+    <!-- Calendar Grid -->
+    <GridPane fx:id="calendarGrid" hgap="5" vgap="5" />
+
+</VBox>
+
+

@@ -68,15 +68,3 @@ Note: If the Colab session restarts, you will get a new URL. Update config.prope
   3. Run the JavaFX project.
 
   4. Everything should work.
-
-## Project Structure
-
-  - models/ → Pre-trained models and encoders
-
-  - API.ipynb → Python API notebook (run in Colab)
-
-  - config.properties → Configuration file for API keys and URLs
-
-  - src/ → JavaFX source code
-
-  - README.md → Project documentation

@@ -20,7 +20,7 @@ public class main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         // Load your FXML file
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/com/example/summer_project/step1.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/com/example/summer_project/login.fxml"));
         Scene scene = new Scene(loader.load());
 
         // Set scene

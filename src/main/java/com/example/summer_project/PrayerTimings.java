@@ -78,19 +78,39 @@ public class PrayerTimings {
             JSONObject data = (JSONObject) json.get("data");
             JSONObject timings = (JSONObject) data.get("timings");
 
-            fajr = (String) timings.get("Fajr");
-            sunrise = (String) timings.get("Sunrise");
-            dhuhr = (String) timings.get("Dhuhr");
-            asr = (String) timings.get("Asr");
-            maghrib = (String) timings.get("Maghrib");
-            isha = (String) timings.get("Isha");
-            midnight = (String) timings.get("Midnight");
+            fajr = formatTo12Hour((String) timings.get("Fajr"));
+            sunrise = formatTo12Hour((String) timings.get("Sunrise"));
+            dhuhr = formatTo12Hour((String) timings.get("Dhuhr"));
+            asr = formatTo12Hour((String) timings.get("Asr"));
+            maghrib = formatTo12Hour((String) timings.get("Maghrib"));
+            isha = formatTo12Hour((String) timings.get("Isha"));
+            midnight = formatTo12Hour((String) timings.get("Midnight"));
 
             // Calculate Qiyam based on Maghrib and Fajr
-            qiyam = calculateQiyamTime(maghrib, fajr);
+            qiyam = formatTo12Hour(calculateQiyamTime((String) timings.get("Maghrib"), (String) timings.get("Fajr")));
 
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    /**
+     * Converts a time in HH:mm (24-hour) format to 12-hour format with AM/PM.
+     */
+    private String formatTo12Hour(String time24) {
+        try {
+            String[] parts = time24.split(":");
+            int hour = Integer.parseInt(parts[0]);
+            int minute = Integer.parseInt(parts[1]);
+
+            String period = (hour >= 12) ? "PM" : "AM";
+            if (hour == 0) hour = 12;          // midnight -> 12 AM
+            else if (hour > 12) hour -= 12;    // convert 13–23 to 1–11 PM
+
+            return String.format("%d:%02d %s", hour, minute, period);
+
+        } catch (Exception e) {
+            return time24; // fallback to original if parsing fails
         }
     }
 
@@ -130,18 +150,11 @@ public class PrayerTimings {
 
     // Getters
     public String getFajrTiming() { return fajr; }
-
     public String getSunriseTiming() { return sunrise; }
-
     public String getDhuhrTiming() { return dhuhr; }
-
     public String getAsrTiming() { return asr; }
-
     public String getMaghribTiming() { return maghrib; }
-
     public String getIshaTiming() { return isha; }
-
     public String getMidnightTiming() { return midnight; }
-
     public String getQiyamTiming() { return qiyam; }
 }
